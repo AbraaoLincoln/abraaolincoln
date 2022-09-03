@@ -54,6 +54,6 @@
 </p>
 
 # 📊 GitHub Stats:
-<!-- ![](https://github-readme-stats.vercel.app/api?username=abraaolincoln&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
-![](https://github-readme-streak-stats.herokuapp.com/?user=abraaolincoln&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=AbraaoLincoln&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AbraaoLincoln&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbraaoLincoln&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
