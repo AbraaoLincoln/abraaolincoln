@@ -1,5 +1,5 @@
 # Hi 👋, I'm Abraão
-## I'm a backend developer and enthusiast of automate things. ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abraaolincoln&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## I'm a backend developer and enthusiast of automate things.
 
 # 💻 Languages and Tools:
 <!-- ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) 
