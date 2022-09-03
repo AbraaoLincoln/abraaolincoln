@@ -2,13 +2,13 @@
 ## I'm a backend developer and fan of automate things.
 
 # 💻 Tech Stack:
-<!-- ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) 
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) 
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-![GIT](https://git-scm.com/) -->
+![GIT]([https://git-scm.com/](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg))
 
 
 <h3 align="left">Languages and Tools:</h3>
