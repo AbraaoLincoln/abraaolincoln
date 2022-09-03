@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Abraão</h1>
-<h3 align="center">I'm a backend developer and fan of automate things. </h3>
+# Hi 👋, I'm Abraão
+## I'm a backend developer and fan of automate things.
 
 # 💻 Tech Stack:
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) 
@@ -10,8 +10,8 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=abraaolincoln&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=abraaolincoln&theme=dark&hide_border=false)<br/>
+<!-- ![](https://github-readme-stats.vercel.app/api?username=abraaolincoln&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
+![](https://github-readme-streak-stats.herokuapp.com/?user=abraaolincoln&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abraaolincoln&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
